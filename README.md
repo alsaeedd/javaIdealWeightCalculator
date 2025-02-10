@@ -16,4 +16,5 @@ The program is straightforward and user-friendly:
 
 ## Getting Started
 ```git clone git@github.com:alsaeedd/javaIdealWeightCalculator.git```
+
 Then run the **main** method in your IDE of choice and enjoy!

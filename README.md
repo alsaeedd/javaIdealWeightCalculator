@@ -15,5 +15,5 @@ The program is straightforward and user-friendly:
 - Accounts for both current and target body composition
 
 ## Getting Started
-```bash
-git clone git@github.com:alsaeedd/javaIdealWeightCalculator.git
+```git clone git@github.com:alsaeedd/javaIdealWeightCalculator.git```
+Then run the **main** method in your IDE of choice and enjoy!
